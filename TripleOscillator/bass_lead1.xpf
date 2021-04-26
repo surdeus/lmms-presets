@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<!DOCTYPE lmms-project>
+<lmms-project creator="LMMS" type="instrumenttracksettings" version="1.0" creatorversion="1.2.1">
+  <head/>
+  <instrumenttracksettings solo="0" name="bass_lead1" type="0" muted="0">
+    <instrumenttrack pitchrange="1" pan="0" vol="100" fxch="0" basenote="57" usemasterpitch="1" pitch="0">
+      <instrument name="tripleoscillator">
+        <tripleoscillator modalgo1="2" wavetype0="4" modalgo3="2" phoffset0="0" userwavefile0="" finel2="0" vol0="38" finel0="-8" coarse0="-20" stphdetun2="0" finer1="5" stphdetun1="0" phoffset2="0" coarse1="-8" vol2="0" pan1="0" wavetype1="5" finel1="-7" pan0="0" modalgo2="2" userwavefile1="" userwavefile2="" phoffset1="0" finer0="9" coarse2="-24" pan2="0" stphdetun0="210" wavetype2="0" vol1="33" finer2="0"/>
+      </instrument>
+      <eldata fwet="0" fres="0.5" ftype="0" fcut="14000">
+        <elvol hold="0" lshp="0" att="0.048" lpdel="0" dec="0.5" amt="1" pdel="0" lspd_denominator="4" rel="0.29500002" lspd_numerator="4" x100="0" sustain="0.53600001" ctlenvamt="0" latt="0" lamt="0" userwavefile="" lspd="0.1" lspd_syncmode="0"/>
+        <elcut hold="0.5" lshp="0" att="0" lpdel="0" dec="0.5" amt="0" pdel="0" lspd_denominator="4" rel="0.1" lspd_numerator="4" x100="0" sustain="0.5" ctlenvamt="0" latt="0" lamt="0" userwavefile="" lspd="0.1" lspd_syncmode="0"/>
+        <elres hold="0.5" lshp="0" att="0" lpdel="0" dec="0.5" amt="0" pdel="0" lspd_denominator="4" rel="0.1" lspd_numerator="4" x100="0" sustain="0.5" ctlenvamt="0" latt="0" lamt="0" userwavefile="" lspd="0.1" lspd_syncmode="0"/>
+      </eldata>
+      <chordcreator chordrange="1" chord-enabled="0" chord="0"/>
+      <arpeggiator arpdir="0" arp-enabled="0" arp="0" arpcycle="0" arpskip="0" arptime_numerator="4" arprange="1" arpgate="100" arptime_syncmode="0" arptime_denominator="4" arpmode="0" arpmiss="0" arptime="200"/>
+      <midiport outputchannel="1" outputcontroller="0" fixedoutputnote="-1" inports="" inputchannel="0" outputprogram="1" readable="1" writable="0" inputcontroller="0" fixedoutputvelocity="-1" fixedinputvelocity="-1" basevelocity="63"/>
+      <fxchain numofeffects="0" enabled="0"/>
+    </instrumenttrack>
+  </instrumenttracksettings>
+</lmms-project>
